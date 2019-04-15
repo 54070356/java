@@ -1,4 +1,4 @@
-package eric.concurrent;
+package laofuzi.concurrent;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

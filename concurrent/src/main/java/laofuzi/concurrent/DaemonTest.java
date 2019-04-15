@@ -1,4 +1,4 @@
-package eric.concurrent;
+package laofuzi.concurrent;
 
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Logger;

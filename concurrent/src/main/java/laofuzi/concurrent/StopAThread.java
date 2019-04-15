@@ -1,4 +1,4 @@
-package eric.concurrent;
+package laofuzi.concurrent;
 
 /**
  * 
