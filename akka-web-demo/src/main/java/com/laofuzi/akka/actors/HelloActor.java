@@ -35,7 +35,7 @@ public class HelloActor extends AbstractActor {
 		String hello = "Hello " + h.getWho();
 		log.info(hello);
 		
-		//this.context().sender().tell(hello, sender);
+		this.context().sender().tell(hello, this.self());
 		//pipe(hello, getContext().dispatcher()).to(getSender());
 		return hello;
 	}
